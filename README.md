@@ -1,4 +1,4 @@
-<div align=center><img src=http://techiesgazette.marwadiuniversity.ac.in/wp-content/uploads/2021/07/bu2.png width="1000" height="600"/></div>
+<div align=center><img src=http://techiesgazette.marwadiuniversity.ac.in/wp-content/uploads/2021/07/bu2.png width="1000" height="500"/></div>
 
 
 
